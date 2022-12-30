@@ -87,3 +87,7 @@ println(1 + 3)
 - postfix notation
 - apply ()
 ![img_6.png](img_6.png)
+
+### 8. Scala Object
+- Scala doesn't have "static" instead it has "object"
+![img_7.png](img_7.png)
