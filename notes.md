@@ -66,7 +66,6 @@ println(1 + 3)
 ### 3. Call by value & Call by name
 
 - => (Simple for call by name)
-
 ![img_4.png](img_2.png)
 
 ### 4. Default and Named arguments
@@ -87,3 +86,4 @@ println(1 + 3)
   - unary_ prefix only works with - + ~ !
 - postfix notation
 - apply ()
+![img_6.png](img_6.png)
