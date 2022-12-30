@@ -78,3 +78,12 @@ println(1 + 3)
 
 ### 6. Scala Oops basics
 ![img_5.png](img_5.png)
+
+### 7. Method Notations 
+
+- infix notation = operator notation (syntactic sugar)
+- **operators** in scala are **methods** (ALL OPERATORS)
+- prefix notation
+  - unary_ prefix only works with - + ~ !
+- postfix notation
+- apply ()
