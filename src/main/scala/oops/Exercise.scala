@@ -8,7 +8,7 @@ object Exercise extends App {
 
   println(novel.authorAge())
   println(novel.isWrittenBy(author))
-  println(novel.copy(1996))
+  //println(novel.copy(1996))
 }
 
 class Writer(val firstname: String, val surname: String, val year: Int) {
