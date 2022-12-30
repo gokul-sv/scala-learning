@@ -75,3 +75,6 @@ println(1 + 3)
 ### 5. Smart operations on Strings
 - intepolators (s, f, raw)
 ![img_4.png](img_4.png)
+
+### 6. Scala Oops basics
+![img_5.png](img_5.png)
