@@ -73,3 +73,5 @@ println(1 + 3)
 ![img_3.png](img_3.png)
 
 ### 5. Smart operations on Strings
+- intepolators (s, f, raw)
+![img_4.png](img_4.png)
