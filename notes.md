@@ -91,3 +91,16 @@ println(1 + 3)
 ### 8. Scala Object
 - Scala doesn't have "static" instead it has "object"
 ![img_7.png](img_7.png)
+
+### 8. Inheritance and Trait
+![img_8.png](img_8.png)
+
+### 9. Generics
+![img_9.png](img_9.png)
+![img_10.png](img_10.png)
+
+### 10. Anonymous class
+![img_11.png](img_11.png)
+
+### 11. Case class
+![img_12.png](img_12.png)
