@@ -104,3 +104,9 @@ println(1 + 3)
 
 ### 11. Case class
 ![img_12.png](img_12.png)
+
+### 12. Exception
+![img_13.png](img_13.png)
+
+### 13. Packaging and imports
+![img_14.png](img_14.png)
