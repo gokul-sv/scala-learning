@@ -118,3 +118,6 @@ println(1 + 3)
 
 ### 15. Anonymous Function / lambda
 ![img_16.png](img_16.png)
+
+### 16. Higher-Order-Functions and Curries
+![img_17.png](img_17.png)
