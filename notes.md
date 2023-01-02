@@ -110,3 +110,11 @@ println(1 + 3)
 
 ### 13. Packaging and imports
 ![img_14.png](img_14.png)
+
+===================
+## Functional Programming
+### 14. What is a Function?
+![img_15.png](img_15.png)
+
+### 15. Anonymous Function / lambda
+![img_16.png](img_16.png)
