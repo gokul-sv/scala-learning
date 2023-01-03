@@ -121,3 +121,24 @@ println(1 + 3)
 
 ### 16. Higher-Order-Functions and Curries
 ![img_17.png](img_17.png)
+
+### 17. Collections
+- Overview
+![img_18.png](img_18.png)
+- Immutable Collections
+![img_19.png](img_19.png)
+- Mutable Collections
+![img_20.png](img_20.png)
+- Traversal
+![img_21.png](img_21.png)
+- Sequences
+![img_22.png](img_22.png)
+- List
+![img_23.png](img_23.png)
+- Array
+![img_24.png](img_24.png)
+- Vector
+![img_25.png](img_25.png)
+
+### Tuples and Maps
+![img_26.png](img_26.png)
