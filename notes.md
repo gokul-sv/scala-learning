@@ -140,5 +140,5 @@ println(1 + 3)
 - Vector
 ![img_25.png](img_25.png)
 
-### Tuples and Maps
+### 18. Tuples and Maps
 ![img_26.png](img_26.png)
